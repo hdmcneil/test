@@ -5,3 +5,6 @@
 ##Strategies
 1. Calendaring and Planning
 2. Making studying a habit
+
+##Shoutout
+Thank you to my wife, Ann, for her support and patience with the amount of time I am taking to focus on my time at Turing.
